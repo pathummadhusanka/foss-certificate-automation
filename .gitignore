@@ -1,0 +1,36 @@
+# Generated certificate files and logs
+/out/
+/out_compressed/
+/src/docker-certificate.pdf
+/src/docker-certificate-compressed.pdf
+!/src/docker-certificate.example.pdf
+
+# Recipient data: keep only the safe example template
+/src/*.csv
+!/src/names.csv
+!/src/names.example.csv
+
+# Runtime-downloaded fonts
+/app/*.ttf
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local environment and tooling files
+.env
+.env.*
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db

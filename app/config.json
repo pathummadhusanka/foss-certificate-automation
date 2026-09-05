@@ -1,0 +1,13 @@
+{
+    "font_size": 16.75,
+    "top_offset_ratio": 0.39,
+    "font_name": "Montserrat-SemiBold",
+    "font_filename": "Montserrat-SemiBold.ttf",
+    "font_url": "https://github.com/JulietaUla/Montserrat/raw/master/fonts/ttf/Montserrat-SemiBold.ttf",
+    "text_color_rgb": [
+        0.15,
+        0.15,
+        0.15
+    ],
+    "max_text_width_ratio": 0.80
+}
